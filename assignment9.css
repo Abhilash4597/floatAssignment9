@@ -1,0 +1,299 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    float: left;
+    height: 70px;
+    background-color: purple;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+.heading-left{
+    float: left;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.heading-right{
+    float: left;
+    margin-left: 550px;
+    padding-right: 210px;
+    margin-top: 22px;
+}
+.heading-right a{
+    margin: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.main-heading{
+    height: 100px;
+    padding: 100px;
+    background-color: purple;
+    color: #fff;
+    font-size: 25px;
+}
+.main-heading p{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.cont{
+    width: 250px;
+    text-align: left;
+    float: left;
+    margin: 95px;
+    font-size: 20px;
+}
+.cont .first{
+    color: purple;
+}
+.cont p{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.cont button{
+    background-color: rgb(226, 84, 226);
+    padding: 4px 10px 4px 10px;
+    font-size: 12px;
+    margin-top: 15px;
+    border: none;
+}
+
+.image_content{
+    clear: both;
+    background-color: purple;
+    color: #fff;
+    padding-top: 30px;
+}
+
+.forImage{
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 215px;
+}
+.image_div1{
+    border: 2px solid gray;
+    width: 178px;
+    float: left;
+    padding-bottom: 50px;
+}
+.img1{
+    clip-path: circle();
+    height: 100px;
+    margin-top: 40px;
+    margin-right:70px;
+}
+.image_div1 h3{
+    margin-top: 20px;
+}
+.image_div1 p{
+    color: gray;
+}
+.image_div2{
+    border: 2px solid gray;
+    width: 178px;
+    margin-left: 50px;
+    float: left;
+    padding-bottom: 50px;
+}
+.img2{
+    clip-path: circle();
+    height: 100px;
+    margin-top: 40px;
+    margin-right:70px;
+}
+.image_div2 h3{
+    margin-top: 20px;
+}
+.image_div2 p{
+    color: gray;
+}
+.image_div3{
+    border: 2px solid gray;
+    width: 178px;
+    margin-left: 50px;
+    float: left;
+    padding-bottom: 50px;
+}
+.img3{
+    clip-path: circle();
+    height: 100px;
+    margin-top: 40px;
+    margin-right:70px;
+}
+.image_div3 h3{
+    margin-top: 20px;
+}
+.image_div3 p{
+    color: gray;
+}
+.image_div4{
+    border: 2px solid gray;
+    width: 178px;
+    margin-left: 50px;
+    float: left;
+    padding-bottom: 50px;
+}
+.img4{
+    clip-path: circle();
+    height: 100px;
+    margin-top: 40px;
+    margin-right:70px;
+}
+.image_div4 h3{
+    margin-top: 20px;
+}
+.image_div4 p{
+    color: gray;
+}
+
+.secondimage_content{
+    clear: both;
+}
+
+.secondImage_content{
+    margin-top: 50px;
+    color: purple;
+}
+
+.secondDiv_image{
+    margin-left: 215px;
+    margin-top: 80px;
+    float: left;
+    padding-bottom: 50px;
+    width: 350px;
+}
+.img5{
+    height: 200px;
+    width: 350px;
+}
+.secondContent_image1{
+    float: left;
+}
+.secondContent_image1 .first{
+    color: purple;
+}
+.secondContent_image1 p{
+    font-size: 15px;
+    margin-top: 10px;
+    color: black;
+}
+.secondContent_image1 button{
+    background-color: rgb(226, 84, 226);;
+    padding: 4px 10px 4px 10px;
+    font-size: 12px;
+    margin-top: 15px;
+    border: none;
+}
+.secondDiv_image1{
+    margin-left: 215px;
+    margin-top: 80px;
+    float: left;
+    padding-bottom: 50px;
+    width: 350px;
+}
+.img6{
+    height: 200px;
+    width: 350px;
+}
+.secondContent_image2{
+    float: left;
+}
+.secondContent_image2 .first{
+    color: purple;
+}
+.secondContent_image2 p{
+    font-size: 15px;
+    margin-top: 10px;
+    color: black;
+}
+.secondContent_image2 button{
+    background-color: rgb(226, 84, 226);;
+    padding: 4px 10px 4px 10px;
+    font-size: 12px;
+    margin-top: 15px;
+    border: none;
+}
+
+hr{
+    clear: both;
+}
+.container3 {
+    text-align: right;
+    padding-bottom: 20px;
+}
+.container3 a{
+    color: purple;
+}
+.container3 p {
+    float: left;
+    opacity: 0.8;
+    color: purple;
+}
+.linkedin {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.image_text1{
+    background-color: #fff;
+    width: 70px;
+    padding: 5px;
+    border-radius:3px;
+    padding-right: 12px;
+    position: absolute;
+    right: 945px;
+    bottom: -430px;
+}
+.image_text1 img{
+    height: 17px;
+}
+.image_text2{
+    background-color: #fff;
+    width: 70px;
+    padding: 5px;
+    border-radius:3px;
+    padding-right: 12px;
+    position: absolute;
+    right: 713px;
+    bottom: -430px;
+}
+.image_text2 img{
+    height: 17px;
+}
+.image_text3{
+    background-color: #fff;
+    width: 70px;
+    padding: 5px;
+    border-radius:3px;
+    padding-right: 12px;
+    position: absolute;
+    right: 481px;
+    bottom: -430px;
+}
+.image_text3 img{
+    height: 17px;
+}
+.image_text4{
+    background-color: #fff;
+    width: 70px;
+    padding: 5px;
+    border-radius:3px;
+    padding-right: 12px;
+    position: absolute;
+    right: 248px;
+    bottom: -430px;
+}
+.image_text4 img{
+    height: 17px;
+}
+.arrow{
+    background-color: plum;
+    padding: 15px;
+    border-radius: 25px 25px 25px 25px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+}
